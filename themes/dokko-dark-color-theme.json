@@ -159,7 +159,7 @@
     "list.highlightForeground": "#bffd6d",
     "list.deemphasizedForeground": "#4a4a4d",
     "list.errorForeground": "#e11d1d",
-    "list.warningForeground": "#f79009",
+    "list.warningForeground": "#bffd6d",
     "list.inactiveFocusBackground": "#1e1e21",
     "list.dropBackground": "#bffd6d14",
 
