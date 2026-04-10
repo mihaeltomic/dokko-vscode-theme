@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <rect width="128" height="128" rx="20" fill="#1f2119"/>
+  <!-- Lightning bolt — inazuma (稲妻) means lightning -->
+  <path d="M72 12 L38 70 L58 70 L56 116 L90 58 L70 58 Z" fill="#bffd6d"/>
+</svg>

@@ -1,0 +1,56 @@
+{
+  "name": "dokko-dark",
+  "displayName": "Dokko Dark",
+  "description": "Dark theme built on the Dokko design system — deep forest surfaces with inazuma neon-green accent. Includes Carbon product icons and Chalice file icons.",
+  "version": "0.1.0",
+  "publisher": "dokko",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mihaeltomic/dokko-vscode-theme"
+  },
+  "homepage": "https://github.com/mihaeltomic/dokko-vscode-theme",
+  "bugs": {
+    "url": "https://github.com/mihaeltomic/dokko-vscode-theme/issues"
+  },
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#1f2119",
+    "theme": "dark"
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "green",
+    "neon",
+    "minimal",
+    "geist",
+    "dokko"
+  ],
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": ["Themes", "Extension Packs"],
+  "extensionPack": [
+    "artlaman.chalice-icon-theme",
+    "antfu.icons-carbon"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dokko Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dokko-dark-color-theme.json"
+      }
+    ],
+    "configurationDefaults": {
+      "workbench.colorTheme": "Dokko Dark",
+      "workbench.productIconTheme": "icons-carbon",
+      "workbench.iconTheme": "chalice-icon-theme",
+      "editor.fontFamily": "Geist Mono Variable, Geist Mono, monospace",
+      "editor.fontLigatures": true,
+      "editor.fontSize": 13,
+      "editor.lineHeight": 1.6
+    }
+  }
+}
