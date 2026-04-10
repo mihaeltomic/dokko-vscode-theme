@@ -1,5 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
-  <rect width="128" height="128" rx="20" fill="#1f2119"/>
-  <!-- Lightning bolt — inazuma (稲妻) means lightning -->
-  <path d="M72 12 L38 70 L58 70 L56 116 L90 58 L70 58 Z" fill="#bffd6d"/>
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1024" height="1024" rx="512" fill="#1F2119"/>
+<path d="M431.175 359.5V474.828C514.943 371.58 550.613 359.5 718.245 359.5V452.692C609.558 449.972 568.354 442.731 466.308 512.364C623.535 507.114 699.746 532.729 735.036 664.5H616.388C593.114 577.538 521.078 555.529 431.08 555.529C431.08 603.595 431.143 616.402 431.143 664.5H346.964V359.5H431.143H431.175Z" fill="#BFFD6D"/>
 </svg>

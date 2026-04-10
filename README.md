@@ -45,4 +45,4 @@ All other settings (icon themes, font) are applied as defaults and will not over
 
 ## Screenshot
 
-![Dokko Dark theme preview](https://raw.githubusercontent.com/dokko/dokko-vscode-theme/main/preview.png)
+![Dokko Dark theme preview](https://raw.githubusercontent.com/mihaeltomic/dokko-vscode-theme/main/preview.png)
